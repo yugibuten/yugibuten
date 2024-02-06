@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building neural network model<br>👯 I’m looking to collaborate on neural network<br>🤝 I’m looking for help with React<br>🌱 I’m currently learning React<br>💬 Ask me about Machine learning<br>⚡ Fun fact
+🔭 I’m currently working on building neural network model<br>👯 I’m looking to collaborate on neural network<br>🤝 I’m looking for help with React<br>🌱 I’m currently learning React<br>💬 Ask me about Machine learning<br>
 
 
 ## 🌐 Socials:
