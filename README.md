@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/mohammad-safwan-74a894219">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://medium.com/@Msafwan](https://medium.com/@msafwan2002">
+  <a href="https://medium.com/@msafwan2002">
     <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" />
   </a>
   <a href="mailto:msafwan2002@gmail.com">
