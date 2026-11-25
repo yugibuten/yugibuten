@@ -26,7 +26,7 @@ I like making AI do things, not just talk about them.
 I'm an AI engineer in the making, interested in what happens when LLMs meet real-world problems, messy data, and actual software systems.
 
 I spend most of my time building things with Python, experimenting with AI architectures, and figuring out how to turn interesting ideas into working systems.
- spend most of my time building things with Python, experimenting with AI architectures, and figuring out how to turn interesting ideas into working systems.
+
 
 My playground: Python · FastAPI · PyTorch · LangChain · RAG · LLMs · SQL
 
