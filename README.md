@@ -28,18 +28,6 @@ I'm an AI engineer in the making, interested in what happens when LLMs meet real
 I spend most of my time building things with Python, experimenting with AI architectures, and figuring out how to turn interesting ideas into working systems.
  spend most of my time building things with Python, experimenting with AI architectures, and figuring out how to turn interesting ideas into working systems.
 
-A few things I've been building:
-
-FinSight — An AI-powered financial platform that connects LLMs with real financial data.
-
-Text-to-SQL Analyst— Turning natural language into SQL, with a focus on safe execution and reliable answers.
-
-Clinical NLP — Exploring patient outcome prediction using ClinicalBERT and BiLSTM on MIMIC-III.
-
-Friday — A Python voice assistant powered by Gemini.
-
-Manim Explainers — Breaking down complex AI and software concepts through animation.
-
 My playground: Python · FastAPI · PyTorch · LangChain · RAG · LLMs · SQL
 
 Currently exploring: Agentic systems, LLM infrastructure, and better ways to make AI applications reliable beyond the prototype.
