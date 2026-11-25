@@ -55,23 +55,6 @@ Previously at **baraka (YC S21)** building a conversational AI financial assista
 ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 
----
-
-## Featured Projects
-
-### 🤖 AI-Powered Stock Analysis Assistant
-Real-time financial analysis app with a chat interface. Streaming AI responses via LangChain agents integrated with live market data.  
-`FastAPI` `React` `LangChain` `yfinance`
-
-### 🦙 Llama-2 Fine-Tuning with QLoRA
-Fine-tuned Llama-2-7b using 4-bit quantization (QLoRA) to run on a single consumer GPU — significantly reducing compute requirements without sacrificing output quality.  
-`PyTorch` `Transformers` `PEFT` `bitsandbytes` `LoRA`
-
-### 🎙️ AI Desktop Voice Assistant
-Voice-controlled desktop assistant using speech recognition and NLP to handle real-world commands.  
-`Python` `SpeechRecognition` `NLP`
-
----
 
 
 
