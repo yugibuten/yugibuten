@@ -30,13 +30,13 @@ I spend most of my time building things with Python, experimenting with AI archi
 
 A few things I've been building:
 
-#FinSight# — An AI-powered financial platform that connects LLMs with real financial data.
+FinSight — An AI-powered financial platform that connects LLMs with real financial data.
 
-#Text-to-SQL Analyst#— Turning natural language into SQL, with a focus on safe execution and reliable answers.
+Text-to-SQL Analyst— Turning natural language into SQL, with a focus on safe execution and reliable answers.
 
-#Clinical NLP# — Exploring patient outcome prediction using ClinicalBERT and BiLSTM on MIMIC-III.
+Clinical NLP — Exploring patient outcome prediction using ClinicalBERT and BiLSTM on MIMIC-III.
 
-#Friday# — A Python voice assistant powered by Gemini.
+Friday — A Python voice assistant powered by Gemini.
 
 Manim Explainers — Breaking down complex AI and software concepts through animation.
 
