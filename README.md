@@ -21,13 +21,34 @@
 
 ## About
 
-I'm a Python software engineer focused on building production-grade AI infrastructure — RAG pipelines, LLM-powered APIs, and real-time data systems. Currently pursuing my MSc in AI while working on applied ML projects.
+I like making AI do things, not just talk about them.
 
-Previously at **baraka (YC S21)** building a conversational AI financial assistant, and at **Quantum Acumen** where I architected RAG pipelines that improved LLM response accuracy by 45%.
+I'm an AI engineer in the making, interested in what happens when LLMs meet real-world problems, messy data, and actual software systems.
 
-- 🔭 Working on: LLM tooling and agentic systems
-- 🎓 Studying: MSc Artificial Intelligence @ Heriot-Watt University
-- 💬 Ask me about: RAG, LangChain, FastAPI, LLM fine-tuning
+I spend most of my time building things with Python, experimenting with AI architectures, and figuring out how to turn interesting ideas into working systems.
+ spend most of my time building things with Python, experimenting with AI architectures, and figuring out how to turn interesting ideas into working systems.
+
+A few things I've been building:
+
+#FinSight# — An AI-powered financial platform that connects LLMs with real financial data.
+
+#Text-to-SQL Analyst#— Turning natural language into SQL, with a focus on safe execution and reliable answers.
+
+#Clinical NLP# — Exploring patient outcome prediction using ClinicalBERT and BiLSTM on MIMIC-III.
+
+#Friday# — A Python voice assistant powered by Gemini.
+
+Manim Explainers — Breaking down complex AI and software concepts through animation.
+
+My playground: Python · FastAPI · PyTorch · LangChain · RAG · LLMs · SQL
+
+Currently exploring: Agentic systems, LLM infrastructure, and better ways to make AI applications reliable beyond the prototype.
+
+🎓 MSc Artificial Intelligence @ Heriot-Watt University, Dubai.
+
+I also enjoy writing about what I learn and explaining complicated technical ideas in ways that actually make sense.
+
+Always building. Always experimenting. Occasionally breaking things.
 
 ---
 
