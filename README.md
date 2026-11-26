@@ -1,11 +1,16 @@
-<h1 align="center">Mohammad Safwan</h1>
-<h3 align="center">Python Engineer · AI/ML Infrastructure · LLM Systems</h3>
+<div align="center">
 
-<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2f81f7&height=200&section=header&text=Mohammad%20Safwan&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Python%20Engineer%20%C2%B7%20AI%2FML%20Infrastructure%20%C2%B7%20LLM%20Systems&descSize=16&descAlignY=60" alt="Mohammad Safwan banner" />
+
+<a href="https://github.com/yugibuten">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&lines=I+like+making+AI+do+things%2C+not+just+talk+about+them;LLMs+meet+messy+data+and+real+software+systems;Always+building.+Always+experimenting.;Occasionally+breaking+things." alt="Typing animation" />
+</a>
+
+<p>
   MSc Artificial Intelligence @ Heriot-Watt University &nbsp;|&nbsp; Dubai, UAE
 </p>
 
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/mohammad-safwan-74a894219">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
@@ -17,6 +22,8 @@
   </a>
 </p>
 
+</div>
+
 ---
 
 ## About
@@ -27,44 +34,76 @@ I'm an AI engineer in the making, interested in what happens when LLMs meet real
 
 I spend most of my time building things with Python, experimenting with AI architectures, and figuring out how to turn interesting ideas into working systems.
 
-
-My playground: Python · FastAPI · PyTorch · LangChain · RAG · LLMs · SQL
-
-Currently exploring: Agentic systems, LLM infrastructure, and better ways to make AI applications reliable beyond the prototype.
-
-🎓 MSc Artificial Intelligence @ Heriot-Watt University, Dubai.
+**Currently exploring:** agentic systems, LLM infrastructure, and better ways to make AI applications reliable beyond the prototype.
 
 I also enjoy writing about what I learn and explaining complicated technical ideas in ways that actually make sense.
-
-Always building. Always experimenting. Occasionally breaking things.
 
 ---
 
 ## Tech Stack
 
-**Languages**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white)
+<img src="https://skillicons.dev/icons?i=py,js,postgres,fastapi,pytorch,tensorflow,sklearn,docker,kafka,aws&perline=10" alt="Tech stack icons" />
 
-**AI / ML**
+<br/>
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F79231?style=flat&logo=scikit-learn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white)
 
-**Backend & Infrastructure**
+</div>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+---
 
+## Featured Projects
 
+<div align="center">
 
+<a href="https://github.com/yugibuten/FinSight-AI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yugibuten&repo=FinSight-AI&theme=tokyonight&hide_border=true" alt="FinSight-AI" />
+</a>
+<a href="https://github.com/yugibuten/voice_assistant">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yugibuten&repo=voice_assistant&theme=tokyonight&hide_border=true" alt="Voice Assistant" />
+</a>
 
+<a href="https://github.com/yugibuten/Llama2-Fine-Tuning">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yugibuten&repo=Llama2-Fine-Tuning&theme=tokyonight&hide_border=true" alt="Llama2 Fine-Tuning" />
+</a>
+<a href="https://github.com/yugibuten/Tea-Packaging-Optimization">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yugibuten&repo=Tea-Packaging-Optimization&theme=tokyonight&hide_border=true" alt="Tea Packaging Optimization" />
+</a>
 
+</div>
+
+### How FinSight works
+
+An AI financial assistant: a FastAPI backend where Gemini decides which market-data tool to call.
+
+```mermaid
+flowchart LR
+    U([User question]) --> A["FastAPI<br/>/query endpoint"]
+    A --> G["Gemini<br/>gemini-2.0-flash"]
+    G -- "automatic<br/>function calling" --> T["Tools<br/>yfinance market data"]
+    T --> G
+    G --> R([Grounded answer])
+```
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yugibuten&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugibuten&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f81f7,100:0d1117&height=100&section=footer" alt="footer" />
+
+</div>
