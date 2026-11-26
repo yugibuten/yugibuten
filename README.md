@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2f81f7&height=200&section=header&text=Mohammad%20Safwan&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Python%20Engineer%20%C2%B7%20AI%2FML%20Infrastructure%20%C2%B7%20LLM%20Systems&descSize=16&descAlignY=60" alt="Mohammad Safwan banner" />
+<img src="assets/header.svg" alt="Mohammad Safwan - Python Engineer, AI/ML Infrastructure, LLM Systems" width="100%" />
 
-<a href="https://github.com/yugibuten">
+<a href="#about">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&lines=I+like+making+AI+do+things%2C+not+just+talk+about+them;LLMs+meet+messy+data+and+real+software+systems;Always+building.+Always+experimenting.;Occasionally+breaking+things." alt="Typing animation" />
 </a>
 
@@ -38,13 +38,13 @@ I also enjoy writing about what I learn and explaining complicated technical ide
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,js,postgres,fastapi,pytorch,tensorflow,sklearn,docker,kafka,aws&perline=10" alt="Tech stack icons" />
+<a href="#tech-stack"><img src="https://skillicons.dev/icons?i=py,js,postgres,fastapi,pytorch,tensorflow,sklearn,docker,kafka,aws&perline=10" alt="Tech stack icons" /></a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/LangChain-21262d?style=for-the-badge" alt="LangChain" />
-<img src="https://img.shields.io/badge/OpenAI-21262d?style=for-the-badge" alt="OpenAI" />
-<img src="https://img.shields.io/badge/SQL-21262d?style=for-the-badge" alt="SQL" />
+<a href="#tech-stack"><img src="https://img.shields.io/badge/LangChain-21262d?style=for-the-badge" alt="LangChain" /></a>
+<a href="#tech-stack"><img src="https://img.shields.io/badge/OpenAI-21262d?style=for-the-badge" alt="OpenAI" /></a>
+<a href="#tech-stack"><img src="https://img.shields.io/badge/SQL-21262d?style=for-the-badge" alt="SQL" /></a>
 
 </div>
 
@@ -87,6 +87,6 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f81f7,100:0d1117&height=100&section=footer" alt="footer" />
+<a href="#about"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f81f7,100:0d1117&height=100&section=footer" alt="footer" /></a>
 
 </div>
