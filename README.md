@@ -1,70 +1,79 @@
-<h1 align="center">Mohammad Safwan</h1>
-<h3 align="center">Python Engineer · AI/ML Infrastructure · LLM Systems</h3>
+<div align="center">
 
-<p align="center">
-  MSc Artificial Intelligence @ Heriot-Watt University &nbsp;|&nbsp; Dubai, UAE
+<img src="assets/header.svg" alt="Mohammad Safwan — Python Engineer, AI/ML Infrastructure, LLM Systems" width="100%" />
+
+<br />
+
+<a href="#about">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=58A6FF&center=true&vCenter=true&width=680&lines=Building+AI+that+does+more+than+talk;LLMs+%2B+real-world+software+systems;Experimenting%2C+building%2C+and+learning" alt="Building AI that solves real-world problems" />
+</a>
+
+<p>
+  <b>MSc Artificial Intelligence</b> @ Heriot-Watt University
+  <br />
+  Dubai, UAE
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/mohammad-safwan-74a894219">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@msafwan2002">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" />
-  </a>
-  <a href="mailto:msafwan2002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
+<p>
+  <a href="https://linkedin.com/in/mohammad-safwan-74a894219"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="https://medium.com/@msafwan2002"><img src="https://img.shields.io/badge/Medium-Read%20my%20writing-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Read my writing on Medium" /></a>
+  <a href="mailto:msafwan2002@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Mohammad Safwan" /></a>
 </p>
+
+</div>
 
 ---
 
 ## About
 
-I like making AI do things, not just talk about them.
+I enjoy turning AI ideas into useful, working software. I'm an AI engineer in the making, interested in building with Python, exploring LLM systems, and solving the practical challenges that show up when prototypes meet real-world data and applications.
 
-I'm an AI engineer in the making, interested in what happens when LLMs meet real-world problems, messy data, and actual software systems.
+**Currently exploring:** agentic systems, LLM infrastructure, and ways to make AI applications more reliable.
 
-I spend most of my time building things with Python, experimenting with AI architectures, and figuring out how to turn interesting ideas into working systems.
+I also write about what I learn and enjoy making complex technical ideas easier to understand.
 
+## What I work with
 
-My playground: Python · FastAPI · PyTorch · LangChain · RAG · LLMs · SQL
+<div align="center">
 
-Currently exploring: Agentic systems, LLM infrastructure, and better ways to make AI applications reliable beyond the prototype.
+| Languages & data | AI & machine learning | Backend & infrastructure |
+|:---:|:---:|:---:|
+| Python · JavaScript · SQL · PostgreSQL | PyTorch · TensorFlow · scikit-learn · LangChain | FastAPI · Docker · Kafka · AWS |
 
-🎓 MSc Artificial Intelligence @ Heriot-Watt University, Dubai.
+<br />
 
-I also enjoy writing about what I learn and explaining complicated technical ideas in ways that actually make sense.
+<img src="https://skillicons.dev/icons?i=py,js,postgres,fastapi,pytorch,tensorflow,sklearn,docker,kafka,aws&perline=10" alt="Python, JavaScript, PostgreSQL, FastAPI, PyTorch, TensorFlow, scikit-learn, Docker, Kafka, and AWS" />
 
-Always building. Always experimenting. Occasionally breaking things.
+</div>
+
+## Featured projects
+
+<div align="center">
+
+<a href="https://github.com/yugibuten/FinSight-AI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yugibuten&repo=FinSight-AI&theme=tokyonight&hide_border=true" alt="FinSight-AI repository card" />
+</a>
+<a href="https://github.com/yugibuten/voice_assistant">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yugibuten&repo=voice_assistant&theme=tokyonight&hide_border=true" alt="Voice Assistant repository card" />
+</a>
+
+<a href="https://github.com/yugibuten/Llama2-Fine-Tuning">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yugibuten&repo=Llama2-Fine-Tuning&theme=tokyonight&hide_border=true" alt="Llama2 Fine-Tuning repository card" />
+</a>
+<a href="https://github.com/yugibuten/Tea-Packaging-Optimization">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yugibuten&repo=Tea-Packaging-Optimization&theme=tokyonight&hide_border=true" alt="Tea Packaging Optimization repository card" />
+</a>
+
+</div>
 
 ---
 
-## Tech Stack
+<div align="center">
 
-**Languages**
+<b>Thanks for stopping by — feel free to connect.</b>
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white)
+<br /><br />
 
-**AI / ML**
+<a href="#about"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f81f7,100:0d1117&height=100&section=footer" alt="Blue wave footer" /></a>
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F79231?style=flat&logo=scikit-learn&logoColor=white)
-
-**Backend & Infrastructure**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-
-
-
-
-
+</div>
