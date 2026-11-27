@@ -48,23 +48,32 @@ I also write about what I learn and enjoy making complex technical ideas easier 
 
 ## Featured projects
 
-<div align="center">
-
-<a href="https://github.com/yugibuten/FinSight-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yugibuten&repo=FinSight-AI&theme=tokyonight&hide_border=true" alt="FinSight-AI repository card" />
-</a>
-<a href="https://github.com/yugibuten/voice_assistant">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yugibuten&repo=voice_assistant&theme=tokyonight&hide_border=true" alt="Voice Assistant repository card" />
-</a>
-
-<a href="https://github.com/yugibuten/Llama2-Fine-Tuning">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yugibuten&repo=Llama2-Fine-Tuning&theme=tokyonight&hide_border=true" alt="Llama2 Fine-Tuning repository card" />
-</a>
-<a href="https://github.com/yugibuten/pso-neural-network">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yugibuten&repo=pso-neural-network&theme=tokyonight&hide_border=true" alt="pso-neural-network repository card" />
-</a>
-
-</div>
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://github.com/yugibuten/FinSight-AI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yugibuten&repo=FinSight-AI&theme=tokyonight&hide_border=true" alt="FinSight-AI repository card" width="400" />
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/yugibuten/voice_assistant">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yugibuten&repo=voice_assistant&theme=tokyonight&hide_border=true" alt="Voice Assistant repository card" width="400" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://github.com/yugibuten/Llama2-Fine-Tuning">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yugibuten&repo=Llama2-Fine-Tuning&theme=tokyonight&hide_border=true" alt="Llama2 Fine-Tuning repository card" width="400" />
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/yugibuten/pso-neural-network">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yugibuten&repo=pso-neural-network&theme=tokyonight&hide_border=true" alt="pso-neural-network repository card" width="400" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
