@@ -60,8 +60,8 @@ I also write about what I learn and enjoy making complex technical ideas easier 
 <a href="https://github.com/yugibuten/Llama2-Fine-Tuning">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=yugibuten&repo=Llama2-Fine-Tuning&theme=tokyonight&hide_border=true" alt="Llama2 Fine-Tuning repository card" />
 </a>
-<a href="https://github.com/yugibuten/Tea-Packaging-Optimization">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yugibuten&repo=Tea-Packaging-Optimization&theme=tokyonight&hide_border=true" alt="Tea Packaging Optimization repository card" />
+<a href="https://github.com/yugibuten/pso-neural-network">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yugibuten&repo=pso-neural-network&theme=tokyonight&hide_border=true" alt="pso-neural-network repository card" />
 </a>
 
 </div>
